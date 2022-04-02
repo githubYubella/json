@@ -19,7 +19,7 @@
         "photoUrl":"https://cyn9.files.wordpress.com/2010/04/picture-016.jpg",
         "alamat":"Jl. Rungkut Mejoyo Utara XI/36. Kode Pos, : 4478",
         "rekening":"445 800 967 445",
-        "atas_nama":"Melani"
+        "atas_nama":"Melani" 
         },
         {
         "id":3,
